@@ -1,5 +1,7 @@
 *.user
 *.sln
+*.vs
+*.TMP
 Debug
 Release
-.vs
+packages
